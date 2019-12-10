@@ -1,5 +1,4 @@
 
-number = 10
 def countdown(number)
   while number is > 0
   puts "#{number} SECONDS!" 
