@@ -2,5 +2,5 @@
 
 def countdown(number)
   while number is > 0
-  while #{number} 
+  while "#{number} SECONDS!" 
 end
